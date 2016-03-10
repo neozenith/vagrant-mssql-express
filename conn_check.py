@@ -1,3 +1,4 @@
+#! /usr/bin/python
 import pymssql
 conn = pymssql.connect(
   "192.168.50.4"
